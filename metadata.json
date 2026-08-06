@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Technician CBT Pro",
+  "description": "Commercial-grade Computer-Based Test (CBT) prep application for Nigerian Pharmacy Technician students featuring practice mode, mock exams, past questions, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
